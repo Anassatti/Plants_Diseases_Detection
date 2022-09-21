@@ -81,7 +81,7 @@ specifically in the big agriculture land in case the farmer does not want to use
 
 ![image](https://user-images.githubusercontent.com/73906550/191440769-3bada293-ab70-4309-825c-eb527e4465e2.png)
 
-**UnHealthy plant**
+**Unhealthy plant**
 
 ![image](https://user-images.githubusercontent.com/73906550/191441113-ef5aece7-d5c0-454f-8d4b-800cf31d5fa4.png)
 
@@ -91,7 +91,7 @@ specifically in the big agriculture land in case the farmer does not want to use
 
 ![image](https://user-images.githubusercontent.com/73906550/191441427-99aa5b05-5104-4c04-ba8b-b299f968df74.png)
 
-**UnHealthy plant**
+**Unhealthy plant**
 
 ![image](https://user-images.githubusercontent.com/73906550/191441529-b0c34664-9e85-40bd-bd30-b68b9c5679a3.png)
 
