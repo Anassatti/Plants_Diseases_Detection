@@ -55,6 +55,12 @@ So, plant diseases and pests influence the availability and safety of plants for
   This solution builds on many phases until it reaches the ultimate goal, which is to decrease the global percentage of food waste because of plant diseases. Therefore, the first phase focused on the African corps because the food percentage of wasted food reached more than 80%. 
   According to the UN, about 21% of people on the continent suffered from hunger in 2020, a total of 282 million people.
   
+  **Solution Methodlogy and Workflow**
+  
+  ![image](https://user-images.githubusercontent.com/73906550/191712763-4905eb40-c9af-41d1-9dd5-d554fe6a852b.png)
+
+  
+  
  ***First Phase***
  
 The first phase of this project is to focus on the African strategic and economic corps, the reason why focus on Africa is that Africa has more hungry people than other continents. Moreover, African countries' economies depend on agriculture as the main source of income.  For instance, Sudan has grazing land of between 120 million and 150 million hectares, and agricultural products represent between 75-80%  of exports. 
