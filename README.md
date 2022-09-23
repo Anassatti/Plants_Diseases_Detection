@@ -170,7 +170,7 @@ specifically in the big agriculture land in case the farmer does not want to use
 
 ***Next Step***
 
-1. Imrove solution website
+1. Improve solution website
 2. Connecting the drone with mobile app
 3. Translate the solution to be available in Arabic language
 
