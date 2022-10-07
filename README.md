@@ -162,28 +162,51 @@ specifically in the big agriculture land in case the farmer does not want to use
   ![image](https://user-images.githubusercontent.com/73906550/191445893-e2bc108d-b6a4-4338-b429-78ffa5512e8b.png)
 
 
+
 ***Next Step***
 
-1. Imrove solution website
-2. Connecting the drone with mobile app
-3. Translate the solution to be available in Arabic language
+1. Analyse **Wheat** plant diseases
+2. Build deep learning model for wheat diseases
+3. Improve solution website
+4. Connecting the drone with mobile app
+5. Translate the solution to be available in Arabic language
 
 
+***Wheat***
+
+**Importance of wheat in people life**
+
+Nobody can deny the importance of wheat as the most important plant for world food because It is the most widely cultivated crop in the world, cultivated on 217 million ha annually. Wheat now supplies a fifth of food calories and protein to the world’s population according to many studies, so clrearly there is continued urgency to enhance wheat productivity to ensure global food security given continued global population growth. Due to the war in Ukraine and because Ukraine consider is one of the biggest producer of wheat  production the price of wheat has jumped on international markets after India banned the export of the staple cereal. In my view, the solution to such crises is focus of reduce the waste of wheat as a results of diseases, therefore, my research will has a great impact in this area.
 
 
+***Wheat diseases***
+
+There are many disease that wheat plant suffered from, below are some of them:
+
+1. Powdery mildew
+2. Brown rust
+3. Black rust
+4. Karnal bunt
+5. Flag smut
+
+Below are example of showing by pictures healthy and unhealty wheat plant
+
+**healthy**
+
+![image](https://user-images.githubusercontent.com/73906550/193638231-7427b912-763b-46e3-8b40-902def49dbb3.png)
+
+**Unhealthy**
+
+This suffered from Rust dieases 
+
+![image](https://user-images.githubusercontent.com/73906550/193638602-a94a6610-6b61-48bd-a830-72848125100a.png)
 
 
+**Wheat diseases by Picture**
 
+![image](https://user-images.githubusercontent.com/73906550/194580371-7425ab5d-1c00-4231-9161-14fd52d57cb8.png)
 
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/73906550/194625586-6e8aa460-ff4d-4353-a59d-8beb0d749312.png)
 
 
 
