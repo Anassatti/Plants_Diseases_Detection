@@ -209,6 +209,13 @@ This suffered from Rust dieases
 ![image](https://user-images.githubusercontent.com/73906550/194625586-6e8aa460-ff4d-4353-a59d-8beb0d749312.png)
 
 
+**Wheat Model Result**
+
+![image](https://user-images.githubusercontent.com/73906550/194689788-ecc69918-2861-49e9-89bf-6ada84b375b8.png)
+
+
+
+
 
 
 
