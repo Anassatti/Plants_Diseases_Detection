@@ -65,6 +65,15 @@ This percentage is the normal situation, but unfortunately, due to plant disease
 The second phase of this project will allow the solution to analyze many plants leaves from one pictures take it from the mobile app to save farmers time and efforts
 specifically in the big agriculture land in case the farmer does not want to use a drone. So as in the below the expected analysis of the diseases will be.
 
+***Phase Three***
+
+Phase three will contains below features:
+1. Integrate drones with diseases medicines database to help farmer and agriculture disease expert add appropriate prescription
+2. Use the drone to spraying pesticides that load by the farmer or the expert
+This methodlogy will save time and cost for the framers instead of hiring team or a company to do manual work, drones can do it in no time
+
+
+
 ***Target plants***
 1. Cotton
 2. Potato
